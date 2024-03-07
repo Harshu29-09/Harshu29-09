@@ -44,6 +44,13 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
 - Current Grade: 8.16 CGPA
 
+## Volunteering and Community work📣
+
+- Microsoft Learn Student Ambassador / GDSC Medi-Caps - As an MLSA, I teamed up with ambassadors and hosted a 3-day web dev session for the     Coding Society Community. I led a Git and GitHub workshop, promoting open source and mentoring participants. Also organized a Hacktoberfest kickoff in the HEKORS Community.
+
+-NSS(National Service Scheme)
+The National Service Scheme (NSS) is a youth-centric voluntary program in India, fostering civic engagement and community service among students to contribute to social development.
+
 ## Interests
 - Keeping up with the latest frontend development trends and technologies
 - Exploring new design and UX/UI concepts
