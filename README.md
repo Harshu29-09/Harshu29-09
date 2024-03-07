@@ -13,28 +13,32 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - **Other:** UI/UX(Beginner), Data Structures and Algorithms(Beginner)
 
 ## Work Experience
-- As of now I contribute in Open source and build my own projects 
+-CodeScure Technologies(01/01/2024 - Current)
+ Frontend Intern with expertise in Tailwind CSS, React, and Axios 
+ API integration. Proficient in creating responsive and dynamic 
+ user interfaces. Currently contributing to projects, gaining handson experience, and enhancing skills in web development
+
+-Webonex Technologies(01/06/2023 - 30/12/2023)
+ Learning & aiding front-end development tasks, creating responsive layouts 
+ with Flexbox/Grid, implementing interfaces, and optimizing performance. Collaborative team player, actively 
+ contributing in meetings.  
+
+- I contribute in Open source and build my own projects (in All-ways & Always )
 
 ## Projects
-### [Calendar](https://radzhiv25.github.io/Projects/Calendar/index.html)
-- This is basically a space travel time calendar which helps to keep things in schedule.
-- Technologies: HTML, CSS and Webflow.
-  
-### [Pixus Numia](https://pixus-numia.vercel.app/)
-- A clone website [numia](https://numia.xyz).
-- Technologies: HTML, TailwindCSS, Javascript.
 
-### [Keeper](https://keeper-woad-gamma.vercel.app/)
-- A notes app where you can create and delete note.
+### [Weather-Forecasting](https://test-task-weatherapp.vercel.app/)
+- This is basically a Weather Forcaster which shows current climatic condition of the city.
+- Technologies: React,Css,Axios.
+
+### [Password-genrator](https://passwordgenrator-two.vercel.app/)
+- A password generator creates strong and randomized passwords, bolstering security against unauthorized access to accounts and systems.
 - Technologies: ReactJs and TailwindCSS.
 
-### [Portfolio](https://rajeevkrishna.vercel.app/)
+### [Portfolio](https://portfolio-update-gamma.vercel.app/)
 - A portfolio to portray me and my projects.
 - Technologies: ReactJs, NextJs and TailwindCSS.
 
-### [Notion Clone](https://beta-notion-clone.vercel.app/)
-- A notion landing page clone
-- Technologies: ReactJs and TailwindCSS.
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
@@ -47,13 +51,13 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - Learning about new tech devices, especially mobiles and laptops
 
 ## Contact Me
-- Email: radzhivkrishna@gmail.com
-- Twitter: https://www.twitter.com/RadzhivDev
-- LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
-- Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
+- Email: patwaharsh0110@@gmail.com
+- Twitter: https://twitter.com/HarshPatwa65486
+- LinkedIn: https://www.linkedin.com/in/harsh-patwa-1649b6289/
+- Portfolio: Under progress but for temporary https://portfolio-update-gamma.vercel.app/
 
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
 
 Let's build amazing user experiences together! 💪🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=radzhiv25&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harshu29-09&theme=dark&hide_border=true&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)
